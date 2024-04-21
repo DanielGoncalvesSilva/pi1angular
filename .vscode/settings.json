@@ -1,0 +1,10 @@
+{
+  "editor.fontSize": 14,
+  "workbench.preferredDarkColorTheme": "Abyss",
+  "workbench.editor.splitInGroupLayout": "horizontal",
+  "workbench.colorCustomizations": {
+    "editor.selectionBackground": "#3b3b3b",
+    "editor.background": "#0f0f1c",
+    "minimap.selectionHighlight": "#dde58b4f"
+  }
+}
